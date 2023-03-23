@@ -16,4 +16,5 @@ int main(){
         printf("%.2f ", *punt);
         punt++;
     }
+    return 0;
 }
