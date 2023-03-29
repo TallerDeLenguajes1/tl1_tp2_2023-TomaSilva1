@@ -1,0 +1,7 @@
+*¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+- En la carpeta donde inicialice el repositorio no puedo ver tp2_1_2, porque el commit lo hice en la rama Opcion_2.
+
+*combinamos master con Opcion_2 ,¿Qué nota?
+- Ahora en "gitk --all" puedo ver que se combinaron las ramas Opcion_2 y main, aparecen los archivos juntos en un solo lugar.
+
+
